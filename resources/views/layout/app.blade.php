@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Portfolio</title>
-    @vite('resources/css/app.css')
-    <script src="https://cdn.tailwindcss.com"></script>
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
     <style>
         /* ตั้งค่าสีพื้นหลังและแสงเรืองรอง (Glow Effect) */
         body {
@@ -37,7 +36,7 @@
     <div class="relative z-10 flex flex-col min-h-screen">
         @include('layout.navbar')
 
-        <main class="flex-grow flex items-center justify-center">
+        <main class="flex grow items-center justify-center">
             @yield('content')
         </main>
     </div>

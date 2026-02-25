@@ -5,7 +5,7 @@
 
         <div>
             <h2 class="text-4xl md:text-6xl font-bold text-white mb-6">Let's work <br><span
-                    class="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-500">Together.</span></h2>
+                    class="text-transparent bg-clip-text bg-linear-to-r from-purple-400 to-pink-500">Together.</span></h2>
             <p class="text-gray-400 text-lg mb-8">
                 สนใจร่วมงาน หรือมีโปรเจกต์ที่อยากให้ผมช่วยพัฒนา สามารถส่งข้อความมาพูดคุยกันได้เลยครับ
             </p>
@@ -87,7 +87,7 @@
                         placeholder="Tell me about your project..."></textarea>
                 </div>
                 <button type="submit"
-                    class="w-full bg-gradient-to-r from-purple-600 to-fuchsia-600 text-white font-semibold py-4 rounded-xl hover:opacity-90 transition glow-button hover:scale-[1.02] transform duration-300">
+                    class="w-full bg-linea-to-r from-purple-600 to-fuchsia-600 text-white font-semibold py-4 rounded-xl hover:opacity-90 transition glow-button hover:scale-[1.02] transform duration-300">
                     Send Message
                 </button>
             </form>

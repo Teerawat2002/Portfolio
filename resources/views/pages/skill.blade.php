@@ -4,7 +4,7 @@
     <div class="max-w-6xl w-full mx-auto px-6 py-12 mt-12">
         <div class="text-center mb-16">
             <h2 class="text-4xl md:text-5xl font-bold text-white mb-4">Tech <span
-                    class="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-500">Arsenal</span></h2>
+                    class="text-transparent bg-clip-text bg-linear-to-r from-purple-400 to-pink-500">Arsenal</span></h2>
             <p class="text-gray-400 text-lg">เครื่องมือและเทคโนโลยีที่เชี่ยวชาญ</p>
         </div>
 

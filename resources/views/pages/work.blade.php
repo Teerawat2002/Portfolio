@@ -4,12 +4,16 @@
     <div class="max-w-6xl w-full mx-auto px-6 py-12 mt-12">
         <div class="flex flex-col md:flex-row justify-between items-end mb-12">
             <div>
-                <h2 class="text-4xl md:text-5xl font-bold text-white mb-4">Featured <span
-                        class="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-500">Projects</span>
+                <h2 class="text-4xl md:text-5xl font-bold text-white mb-4">
+                    Featured
+                    <span class="bg-clip-text text-transparent bg-linear-to-r from-purple-400 to-pink-500 inline-block">
+                        Projects
+                    </span>
                 </h2>
                 <p class="text-gray-400 text-lg">ผลงานบางส่วนที่ผมได้พัฒนาขึ้น</p>
             </div>
-            <a href="https://github.com/Teerawat2002" target="_blank" class="text-purple-400 hover:text-purple-300 font-medium mt-4 md:mt-0 flex items-center gap-2">
+            <a href="https://github.com/Teerawat2002" target="_blank"
+                class="text-purple-400 hover:text-purple-300 font-medium mt-4 md:mt-0 flex items-center gap-2">
                 View Github <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3">
                     </path>
@@ -21,7 +25,7 @@
 
             <div
                 class="group relative bg-white/5 border border-white/10 rounded-3xl overflow-hidden hover:border-purple-500/50 transition duration-500">
-                <div class="h-64 bg-gradient-to-br from-[#1a0b2e] to-[#0f081c] w-full flex items-center justify-center p-8">
+                <div class="h-64 bg-linear-to-br from-[#1a0b2e] to-[#0f081c] w-full flex items-center justify-center p-8">
                     <div
                         class="w-full h-full border border-purple-500/30 rounded-xl bg-[#07030f] flex items-center justify-center shadow-[0_0_30px_rgba(168,85,247,0.2)]">
                         <span class="text-gray-500 font-mono">Project Preview / Dashboard</span>
@@ -53,7 +57,7 @@
 
             <div
                 class="group relative bg-white/5 border border-white/10 rounded-3xl overflow-hidden hover:border-purple-500/50 transition duration-500">
-                <div class="h-64 bg-gradient-to-bl from-[#1a0b2e] to-[#0f081c] w-full flex items-center justify-center p-8">
+                <div class="h-64 bg-linear-to-bl from-[#1a0b2e] to-[#0f081c] w-full flex items-center justify-center p-8">
                     <div
                         class="w-full h-full border border-pink-500/30 rounded-xl bg-[#07030f] flex items-center justify-center shadow-[0_0_30px_rgba(236,72,153,0.2)]">
                         <span class="text-gray-500 font-mono">Portfolio Website</span>

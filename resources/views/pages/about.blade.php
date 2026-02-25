@@ -11,7 +11,7 @@
 
         <h1 class="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
             Building Digital <br>
-            <span class="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-500">
+            <span class="text-transparent bg-clip-text bg-linear-to-r from-purple-400 to-pink-500">
                 Experiences with Code
             </span>
         </h1>
@@ -22,14 +22,14 @@
         </p>
 
         <a href="{{ url('/work') }}"
-            class="bg-gradient-to-r from-purple-600 to-fuchsia-600 text-white font-semibold py-4 px-12 rounded-full text-lg hover:scale-105 transition transform duration-300 glow-button">
+            class="bg-linear-to-r from-purple-600 to-fuchsia-600 text-white font-semibold py-4 px-12 rounded-full text-lg hover:scale-105 transition transform duration-300 glow-button">
             View My Work
         </a>
 
-        <div class="mt-24 relative w-full h-64 flex justify-center perspective-1000 hidden md:flex">
+        <div class="mt-24 relative w-full h-64 justify-center perspective-1000 hidden md:flex">
 
             <div
-                class="absolute transform -rotate-12 -translate-x-32 w-80 h-48 bg-gradient-to-br from-purple-900 to-[#1e0a3c] rounded-2xl border border-white/10 p-6 glow-card backdrop-blur-lg">
+                class="absolute transform -rotate-12 -translate-x-32 w-80 h-48 bg-liner-to-br from-purple-900 to-[#1e0a3c] rounded-2xl border border-white/10 p-6 glow-card backdrop-blur-lg">
                 <div class="flex justify-between items-center mb-8">
                     <span class="text-white/80 font-semibold">Backend</span>
                     <span class="text-purple-400">Laravel</span>
@@ -38,7 +38,7 @@
             </div>
 
             <div
-                class="absolute transform rotate-6 translate-x-16 z-10 w-80 h-48 bg-gradient-to-br from-fuchsia-600 to-purple-800 rounded-2xl border border-white/20 p-6 glow-card backdrop-blur-lg">
+                class="absolute transform rotate-6 translate-x-16 z-10 w-80 h-48 bg-liner-to-br from-fuchsia-600 to-purple-800 rounded-2xl border border-white/20 p-6 glow-card backdrop-blur-lg">
                 <div class="flex justify-between items-center mb-8">
                     <span class="text-white font-bold">Frontend</span>
                     <span class="text-fuchsia-200">Tailwind CSS</span>
