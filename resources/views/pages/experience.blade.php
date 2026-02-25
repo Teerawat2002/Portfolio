@@ -36,13 +36,14 @@
                     class="bg-white/5 border border-white/10 backdrop-blur-sm p-6 rounded-2xl hover:border-purple-500/50 transition duration-300">
                     <div class="flex flex-col md:flex-row md:justify-between md:items-center mb-2">
                         <h3 class="text-xl font-bold text-white">Web Developer</h3>
-                        <span class="text-gray-400 text-sm mt-2 md:mt-0 font-mono bg-white/10 px-3 py-1 rounded-full">2022 -
+                        <span class="text-gray-400 text-sm mt-2 md:mt-0 font-mono bg-white/10 px-3 py-1 rounded-full">march
+                            - july
                             2024</span>
                     </div>
-                    <h4 class="text-gray-300 mb-4 font-medium">Freelance & Personal Projects</h4>
+                    <h4 class="text-gray-300 mb-4 font-medium">Institution of Thai-German (TGI)</h4>
                     <p class="text-gray-400 text-base leading-relaxed">
-                        ออกแบบและพัฒนาเว็บไซต์ด้วย PHP Laravel Framework สร้างระบบ Backend และตกแต่งหน้าตาเว็บไซต์ด้วย
-                        Tailwind CSS และเพิ่มลูกเล่นด้วย JavaScript
+                        ฝึกงานที่ สถาบันไทย-เยอรมัน (TGI) พัฒนาเว็บไซต์และระบบประเมิณคู่ค้าภายนอก (Vendor Evaluation) ด้วย
+                        YII2 Framework เพื่อเพิ่มทักษะและประสบการณ์
                     </p>
                 </div>
             </div>

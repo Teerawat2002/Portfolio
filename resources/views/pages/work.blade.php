@@ -6,7 +6,7 @@
             <div>
                 <h2 class="text-4xl md:text-5xl font-bold text-white mb-4">
                     Featured
-                    <span class="bg-clip-text text-transparent bg-linear-to-r from-purple-400 to-pink-500 inline-block">
+                    <span class="bg-clip-text text-transparent bg-linear-to-r from-purple-400 to-pink-500">
                         Projects
                     </span>
                 </h2>
@@ -69,12 +69,12 @@
                         <span
                             class="text-xs font-semibold bg-green-500/20 text-green-300 px-3 py-1 rounded-full">Tailwind</span>
                         <span
-                            class="text-xs font-semibold bg-yellow-500/20 text-yellow-300 px-3 py-1 rounded-full">jQuery</span>
+                            class="text-xs font-semibold bg-yellow-500/20 text-yellow-300 px-3 py-1 rounded-full">JavaScript</span>
                     </div>
                     <h3 class="text-2xl font-bold text-white mb-3">Portfolio Website</h3>
                     <p class="text-gray-400 text-sm mb-6 leading-relaxed">
                         เว็บไซต์ Portfolio ส่วนตัวที่พัฒนาด้วย Laravel และ Blade ในการจัดการข้อมูลและสร้างหน้าเว็บต่างๆ
-                        ใช้ Tailwind CSS ในการออกแบบและตกแต่ง UI ให้ดูทันสมัยและตอบสนองได้ดี รวมถึงใช้ jQuery
+                        ใช้ Tailwind CSS ในการออกแบบและตกแต่ง UI ให้ดูทันสมัยและตอบสนองได้ดี รวมถึงใช้ JavaScript
                         เพื่อเพิ่มลูกเล่นและความน่าสนใจให้กับเว็บไซต์
                     </p>
                     <a href="#"
