@@ -40,10 +40,10 @@
                             - july
                             2024</span>
                     </div>
-                    <h4 class="text-gray-300 mb-4 font-medium">Institution of Thai-German (TGI)</h4>
+                    <h4 class="text-gray-300 mb-4 font-medium">Thai-German Institute (TGI)</h4>
                     <p class="text-gray-400 text-base leading-relaxed">
                         ฝึกงานที่ สถาบันไทย-เยอรมัน (TGI) พัฒนาเว็บไซต์และระบบประเมิณคู่ค้าภายนอก (Vendor Evaluation) ด้วย
-                        YII2 Framework เพื่อเพิ่มทักษะและประสบการณ์
+                        Yii2 Framework เพื่อเพิ่มทักษะและประสบการณ์
                     </p>
                 </div>
             </div>

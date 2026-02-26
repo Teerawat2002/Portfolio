@@ -16,10 +16,18 @@
             </span>
         </h1>
 
-        <p class="text-gray-400 text-lg md:text-xl mb-10 max-w-2xl mx-auto">
-            I specialize in Laravel, Blade, and Tailwind CSS. Track my projects, manage my skills, and get real-time
-            insights into my development journey.
-        </p>
+        <div class="mb-10 max-w-2xl mx-auto space-y-4">
+            <p class="text-gray-300 text-lg md:text-xl leading-relaxed">
+                สวัสดีครับ 👋 ผมเป็นนักพัฒนาเว็บไซต์ที่หลงใหลในการเขียนโค้ดและการแก้ปัญหา
+                มีความเชี่ยวชาญในการสร้าง Web Application ด้วย <span class="text-purple-400 font-semibold">Laravel
+                    Framework</span>
+                และออกแบบ UI ที่ทันสมัยด้วย <span class="text-cyan-400 font-semibold">Tailwind CSS</span>
+            </p>
+            <p class="text-gray-500 text-base md:text-lg">
+                I specialize in backend development, crafting modern UIs, and building scalable digital experiences.
+                Always ready to learn new things and tackle challenging problems.
+            </p>
+        </div>
 
         <a href="{{ url('/work') }}"
             class="bg-linear-to-r from-purple-600 to-fuchsia-600 text-white font-semibold py-4 px-12 rounded-full text-lg hover:scale-105 transition transform duration-300 glow-button">
@@ -29,7 +37,7 @@
         <div class="mt-24 relative w-full h-64 justify-center perspective-1000 hidden md:flex">
 
             <div
-                class="absolute transform -rotate-12 -translate-x-32 w-80 h-48 bg-liner-to-br from-purple-900 to-[#1e0a3c] rounded-2xl border border-white/10 p-6 glow-card backdrop-blur-lg">
+                class="absolute transform -rotate-12 -translate-x-32 w-80 h-48 bg-linear-to-br from-purple-900 to-[#1e0a3c] rounded-2xl border border-white/10 p-6 glow-card backdrop-blur-lg">
                 <div class="flex justify-between items-center mb-8">
                     <span class="text-white/80 font-semibold">Backend</span>
                     <span class="text-purple-400">Laravel</span>
@@ -38,7 +46,7 @@
             </div>
 
             <div
-                class="absolute transform rotate-6 translate-x-16 z-10 w-80 h-48 bg-liner-to-br from-fuchsia-600 to-purple-800 rounded-2xl border border-white/20 p-6 glow-card backdrop-blur-lg">
+                class="absolute transform rotate-6 translate-x-16 z-10 w-80 h-48 bg-linear-to-br from-fuchsia-600 to-purple-800 rounded-2xl border border-white/20 p-6 glow-card backdrop-blur-lg">
                 <div class="flex justify-between items-center mb-8">
                     <span class="text-white font-bold">Frontend</span>
                     <span class="text-fuchsia-200">Tailwind CSS</span>

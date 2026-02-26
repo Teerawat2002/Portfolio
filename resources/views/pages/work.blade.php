@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="max-w-6xl w-full mx-auto px-6 py-12 mt-12">
-        <div class="flex flex-col md:flex-row justify-between items-end mb-12">
+        <div class="flex flex-col md:flex-row justify-between items-center mb-12">
             <div>
                 <h2 class="text-4xl md:text-5xl font-bold text-white mb-4">
                     Featured
