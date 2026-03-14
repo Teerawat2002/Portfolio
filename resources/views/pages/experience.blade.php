@@ -33,7 +33,7 @@
             <div
                 class="bg-white/5 border border-white/10 backdrop-blur-sm p-6 rounded-2xl hover:border-purple-500/50 transition duration-300">
                 <div class="flex flex-col md:flex-row md:justify-between md:items-center mb-2">
-                    <h3 class="text-xl font-bold text-white">Web Developer</h3>
+                    <h3 class="text-xl font-bold text-white">Information Officer (Internship)</h3>
                     <span class="text-gray-400 text-sm mt-2 md:mt-0 font-mono bg-white/10 px-3 py-1 rounded-full">March
                         - July
                         2024</span>

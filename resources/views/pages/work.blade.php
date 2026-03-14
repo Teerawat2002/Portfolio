@@ -24,8 +24,9 @@
             class="group relative bg-white/5 border border-white/10 rounded-3xl overflow-hidden hover:border-purple-500/50 transition duration-500">
             <div class="h-64 bg-linear-to-br from-[#1a0b2e] to-[#0f081c] w-full flex items-center justify-center p-8">
                 <div
-                    class="w-full h-full border border-purple-500/30 rounded-xl bg-[#07030f] flex items-center justify-center shadow-[0_0_30px_rgba(168,85,247,0.2)]">
-                    <span class="text-gray-500 font-mono">Project Preview / Dashboard</span>
+                    class="w-full h-full border border-purple-500/30 rounded-xl overflow-hidden shadow-[0_0_30px_rgba(168,85,247,0.2)]">
+                    <img src="{{ asset('storage/assets/images/research.png')}}" alt="Research Project Preview"
+                        class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500">
                 </div>
             </div>
 
@@ -46,7 +47,7 @@
                     ให้คะแนนและอัปโหลดไฟล์โครงงาน โดยใช้ Laravel เป็น Backend และ Tailwind CSS กับ JavaScript ในการสร้าง
                     UI ที่ตอบสนองและใช้งานง่าย
                 </p>
-                <a href="#"
+                <a href="https://ict.pcru.ac.th/~research-exam/" target="_blank"
                     class="inline-block text-white border border-white/20 hover:bg-white/10 px-6 py-2 rounded-full transition text-sm">View
                     Details</a>
             </div>

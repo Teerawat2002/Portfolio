@@ -26,7 +26,7 @@
         </p>
     </div>
 
-    <a href="{{ url('/work') }}"
+    <a href="#work"
         class="bg-linear-to-r from-purple-600 to-fuchsia-600 text-white font-semibold py-4 px-12 rounded-full text-lg hover:scale-105 transition transform duration-300 glow-button">
         View My Work
     </a>
