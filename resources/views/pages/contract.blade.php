@@ -17,7 +17,7 @@
                         </path>
                     </svg>
                 </div>
-                <span class="text-lg">0902538870</span>
+                <span class="text-lg">090-253-8870</span>
             </div>
 
             <div class="flex items-center gap-4 text-gray-300 group hover:text-white transition">
@@ -62,7 +62,7 @@
         </div>
     </div>
 
-    <div class="bg-white/5 border border-white/10 backdrop-blur-md p-8 rounded-3xl glow-card">
+    {{-- <div class="bg-white/5 border border-white/10 backdrop-blur-md p-8 rounded-3xl glow-card">
         <form action="#" method="POST" class="space-y-6">
             @csrf
             <div>
@@ -88,6 +88,6 @@
                 Send Message
             </button>
         </form>
-    </div>
+    </div> --}}
 
 </div>
