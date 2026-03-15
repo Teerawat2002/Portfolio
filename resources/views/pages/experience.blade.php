@@ -20,7 +20,7 @@
                 </div>
                 <h4 class="text-gray-300 mb-4 font-medium">Phetchabun Rajabhat University</h4>
                 <p class="text-gray-400 text-base leading-relaxed">
-                    พัฒนาระบบจัดการโครงงานและสอบวิจัย (Research Project Management Information System)
+                    พัฒนาระบบจัดการโครงงานและสอบโครงงานวิจัย (Research Project Management Information System)
                     รองรับระบบจัดการกลุ่มนักศึกษา
                     และแยกระดับสิทธิ์ผู้ใช้งาน (Admin, Advisor, Teacher) ดูแลทั้งฝั่ง Database และ UI
                 </p>
