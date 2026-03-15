@@ -15,7 +15,8 @@
 
     <div class="mb-10 max-w-2xl mx-auto space-y-4">
         <p class="text-gray-300 text-lg md:text-xl leading-relaxed">
-            สวัสดีครับ 👋 ผมเป็นนักพัฒนาเว็บไซต์ที่หลงใหลในการเขียนโค้ดและการแก้ปัญหา
+            สวัสดีครับ 👋 ผม <span class="text-white font-bold">ทีรวัตร์ ศรีสร้อย</span>
+            นักพัฒนาเว็บไซต์ที่หลงใหลในการเขียนโค้ดและการแก้ปัญหา
             มีความเชี่ยวชาญในการสร้าง Web Application ด้วย <span class="text-purple-400 font-semibold">Laravel
                 Framework</span>
             และออกแบบ UI ที่ทันสมัยด้วย <span class="text-cyan-400 font-semibold">Tailwind CSS</span>
