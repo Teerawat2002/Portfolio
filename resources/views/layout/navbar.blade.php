@@ -20,7 +20,7 @@
         <a href="#contact" class="nav-link text-gray-400 hover:text-white transition duration-300">Contact</a>
     </div>
 
-    <a href="{{ asset('resume.pdf') }}" target="_blank"
+    <a href="{{ asset('storage/assets/images/resume.pdf') }}" target="_blank"
         class="hidden md:block border border-white/20 text-white px-6 py-2 rounded-full hover:bg-white/10 hover:border-purple-500/50 transition">
         Resume
     </a>
@@ -41,6 +41,7 @@
         <a href="#skill" class="nav-link-mobile text-gray-300 hover:text-white text-lg">Skills</a>
         <a href="#work" class="nav-link-mobile text-gray-300 hover:text-white text-lg">Work</a>
         <a href="#contact" class="nav-link-mobile text-gray-300 hover:text-white text-lg">Contact</a>
+        <a href="{{ asset('storage/assets/images/resume.pdf') }}" target="_blank" class="nav-link-mobile text-gray-300 hover:text-white text-lg">Resume</a>
     </div>
 </nav>
 
