@@ -18,8 +18,8 @@
         <p class="text-gray-400 text-base md:text-lg leading-relaxed">
             ผมมีความเชี่ยวชาญในสายงานในการออกแบบโครงสร้าง Backend ที่มั่นคงและปลอดภัยด้วย
             <span class="text-purple-400 font-semibold">Laravel Framework</span> ควบคู่ไปกับการสร้างสรรค์หน้าตา UI
-            ที่ทันสมัยและตอบสนองรวดเร็วด้วย <span class="text-cyan-400 font-semibold">Tailwind CSS</span>
-            ผมพร้อมเสมอนำความรู้ทางวิทยาการคอมพิวเตอร์และประสบการณ์มาพัฒนาซอฟต์แวร์ที่ตอบโจทย์ผู้ใช้งานครับ
+            ที่ทันสมัยและตอบสนองรวดเร็วด้วย <span class="text-cyan-400 font-semibold">Tailwind CSS</span> 
+            ผมพร้อมนำความรู้ทางวิทยาการคอมพิวเตอร์และประสบการณ์มาพัฒนาซอฟต์แวร์ที่ตอบโจทย์ผู้ใช้งานครับ
         </p>
     </div>
 
